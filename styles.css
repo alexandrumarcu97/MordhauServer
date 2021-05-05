@@ -15,10 +15,9 @@ a:visited {
 }
 /* Container */
 .container {
-	width: 90%;
+	width: 80%;
 	margin-left: auto;
 	margin-right: auto;
-	height: 1000px;
 	background-color: #FFFFFF;
 }
 /* Navigation */
